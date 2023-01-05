@@ -1,0 +1,54 @@
+body
+{
+	background-image:url("colorful.webp");
+}
+
+#n1, #n2
+{
+	display: inline-block;
+	margin-left: 20px;
+    font-size: 24px;
+	width: 400px;
+}
+
+button {
+	background-color:white;
+	font-size: 20px;
+	width: 155px;
+}
+
+h1{
+    font-size: 40;
+}
+
+h2{
+    font-size: 150;
+}
+
+.color{
+    padding: 20px;
+    float: none;
+    border-radius: 20px;
+    width: fit-content;
+    border-width: 5px;
+    border-style: inherit;
+    border-color: black;
+    font-size: 24px;
+    background-color: aliceblue;
+
+ }  
+ 
+ #output
+{
+background: white;
+border-radius: 10px;
+border-top: 10px solid #cbf026;
+padding: 10px;
+float: none;
+text-align: left;
+}
+
+#m{
+font-size: 150;
+
+}
